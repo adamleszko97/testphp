@@ -33,6 +33,7 @@ mysqli_close($conn);
 				</div>
 			</div>
 		<?php } ?>
+		
 	</div>
 </div>	
  
